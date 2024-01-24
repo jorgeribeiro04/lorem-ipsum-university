@@ -1,0 +1,92 @@
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.exe.config
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.exe
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.pdb
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Form1.resources
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.exe
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.pdb
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Enroll.resources
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Login.resources
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Work.resources
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.ConfirmPayment.resources
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.LecProfile.resources
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Payment.resources
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.StuProfile.resources
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\bin\Debug\LoremIpsumUniversity.mdf
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\bin\Debug\LoremIpsumUniversity_log.ldf
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Grade.resources
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.UsernameAndPassword.resources
+C:\Users\Lenovo\source\repos\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.ChangePassword.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\bin\Debug\LoremIpsumUniversity.mdf
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\bin\Debug\LoremIpsumUniversity_log.ldf
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.exe.config
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.exe
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.pdb
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.ChangePassword.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.ConfirmPayment.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Enroll.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Form1.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Grade.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.LecProfile.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Login.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Payment.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.StuProfile.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.UsernameAndPassword.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Work.resources
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.exe
+C:\Users\Lenovo\Desktop\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.pdb
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\bin\Debug\LoremIpsumUniversity.mdf
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\bin\Debug\LoremIpsumUniversity_log.ldf
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.exe.config
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.exe
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.pdb
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.ChangePassword.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.ConfirmPayment.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Enroll.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Form1.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Grade.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.LecProfile.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Login.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Payment.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.StuProfile.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.UsernameAndPassword.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Work.resources
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.exe
+C:\Users\Lenovo\Desktop\Assignments\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.pdb
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\bin\Debug\LoremIpsumUniversity.mdf
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\bin\Debug\LoremIpsumUniversity_log.ldf
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.exe.config
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.exe
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\bin\Debug\Assignment1OOP.pdb
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.ChangePassword.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.ConfirmPayment.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Enroll.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Form1.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Grade.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.LecProfile.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Login.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Payment.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.StuProfile.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.UsernameAndPassword.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.Work.resources
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.exe
+C:\Users\Lenovo\Desktop\Assignments\OOP\JorgeRibeiro - 10586436\Assignment1OOP\Assignment1OOP\obj\Debug\Assignment1OOP.pdb
